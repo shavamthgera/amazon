@@ -1,4 +1,4 @@
-Updating the file like deployee.sh in the development branch
+we are in the develpment branch	
 
 This file
 Conatains 
